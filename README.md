@@ -4,5 +4,3 @@ My first Fps singleplayer game project. This files contain 15 scripts and separa
 ------>Items(Grenade, Bullet, Healtbox, Ammobox, Blindshell).
 ------>Gamecontrol(Enemy, Gamecontrol, Mainmenucontrol). 
 Enjoy.
- 
-
